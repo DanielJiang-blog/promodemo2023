@@ -1,0 +1,19 @@
+
+body {
+	background-color: #222;
+	color: #fff;
+}
+
+p {
+	color: #ff0072;
+}
+
+#specialParagraph {
+	color: blue;
+	border: 1px solid white;
+}
+
+.highlignt {
+	background-color: #dadb0d;
+}
+
